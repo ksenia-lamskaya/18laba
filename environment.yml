@@ -1,0 +1,9 @@
+name: 18lab
+channels:
+  - defaults
+dependencies:
+  - python=3.12.2
+  - black
+  - isort
+  - flake8
+  - pre-commit

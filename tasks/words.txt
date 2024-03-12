@@ -1,0 +1,5 @@
+apple, book, cat, dog, elephant, fish, grape, house, ice, jump,
+kangaroo, lion, monkey, night, orange, pineapple, queen, rabbit,
+sun, tiger, umbrella, van, water, xylophone, yellow, zebra, 
+ant, ball, car, door, egg, frog, guitar, hat, ink, jacket, key, lamp, moon, nest, owl, pear,
+quilt, robot, snake, tree, umbrella, violin, whale, x-ray
